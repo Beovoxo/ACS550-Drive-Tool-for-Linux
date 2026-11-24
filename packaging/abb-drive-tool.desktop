@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ABB Drive Tool for Linux
+Comment=Read-only drive monitoring and offline parameter workspace
+Exec=abb-drive-tool
+Icon=applications-engineering
+Terminal=false
+Categories=Development;Engineering;Utility;
