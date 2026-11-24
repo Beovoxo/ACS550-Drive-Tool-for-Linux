@@ -1,4 +1,4 @@
-# ABB Drive Tool for Linux
+#  ACS550 VFD Drive Tool for Linux test idear 
 
 **Independent, community-developed Linux application inspired by the publicly described workflow of ABB DriveWindow Light 2.93. Not affiliated with or endorsed by ABB.**
 
